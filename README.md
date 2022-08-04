@@ -14,7 +14,7 @@ A website that offers a service to help your website be better recoginized by se
 
 # Website
 
-https://github.com/mastalukeremix/Marketing_Agency-module_1-
+https://mastalukeremix.github.io/Marketing_Agency-module_1-/
 
 ## Contribution
 
