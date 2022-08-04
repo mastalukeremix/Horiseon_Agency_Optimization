@@ -10,6 +10,7 @@ A website that offers a service to help your website be better recoginized by se
 * HTML
 * CSS
 
+![image](https://user-images.githubusercontent.com/42505473/182964474-a289fa8b-f1bb-4fb0-ba1c-0f89b3287ef5.png)
 
 # Website
 
