@@ -2,6 +2,7 @@
 removed extra classes in header
 removed individiual benefit classes in both html and css
 removed extra classes in content class and renamed them to individual-content class
+reorganized classes to be in sequential order
 */
 
 * {
@@ -24,9 +25,6 @@ header {
 header h1 {
     display: inline-block;
     font-size: 48px;
-}
-
-header h1 .seo {
     color: #d9dcd6;
 }
 
@@ -52,10 +50,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -63,6 +57,30 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.individual-content {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.individual-content img {
+    max-height: 200px;
+}
+
+.individual-content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .float-left {
@@ -75,10 +93,8 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
+p {
+    font-size: 16px;
 }
 
 .benefits {
@@ -108,24 +124,6 @@ p {
     max-width: 150px;
 }
 
-.individual-content {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.individual-content img {
-    max-height: 200px;
-}
-
-.individual-content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 footer {
     padding: 30px;
     clear: both;
@@ -133,6 +131,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
