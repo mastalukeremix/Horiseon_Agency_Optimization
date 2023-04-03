@@ -1,4 +1,4 @@
-# Horiseon_Agency_Optimazation
+# Horiseon_Agency_Optimization
 
 
 ## Purpose
