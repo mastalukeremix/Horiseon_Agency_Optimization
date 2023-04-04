@@ -3,7 +3,7 @@
 
 ## Purpose
 
-A website that offers a service to help your website be better recoginized by search engines
+A website that offers a service to help your website be better recoginized by search engines.
 
 
 ## Built with
